@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bogdan podariu
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Software Enginnering at Concordia
+- 🌱 I’m currently learning Software Engineering at Concordia
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
