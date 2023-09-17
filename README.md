@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bogdan podariu
 - 👀 I’m interested in Software Engineering. More specifically,  I am most attracted to creating intuitive business-driven applications and working with algorithms specialized for the AI field. 
 - 🌱 I’m currently learning Software Engineering at Concordia
-- 💞️ I’m looking for an internship during summer 2023 semester
+- 💞️ I'm seeking a new software engineering position, with my availability starting in the summer of 2024. 
 - 📫 You can reach me through my personal website [bogdanpodariu.com](http://bogdanpodariu.com/), my [linkedIn](https://www.linkedin.com/in/bogdan-podariu-2034ba1bb/) or my personal email: podariubogdan1@gmail.com.
 
 <!---
